@@ -40,7 +40,7 @@ pause
 **************
 
 - after build project , create hex file , execute the bat file in File manager
-![image](https://github.com/released/M031BSP_TIMER/blob/master/srec_add%20to%20post%20build%20result.png)
+![image](https://github.com/released/M031BSP_TIMER/blob/master/srec_under%20project%20with%20bat.png)
 
 
 3. explanation
